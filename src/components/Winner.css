@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script:600&display=swap');
+
+.hsHcqX {
+    background: white !important;
+    display: flex;
+    margin: 0 auto;
+    width: 30% !important;
+    margin-top: 12%;
+    padding: 15px !important;
+    border-radius: 5px;
+    justify-content: center;
+}
+
+
+.image {
+    /* height: 100px; */
+    width: 450px;
+}
+
+.prize-container {
+    margin-top: 5vh;
+}
+
+.congrats {
+    font-family: 'Dancing Script';
+    /* font-weight: 'semi-bold'; */
+    font-size: 60px;
+    color: red;
+    margin-bottom: 0;
+}
+
+.greetings {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.prize-name {
+    font-weight: 900;
+    border-radius: 5px;
+    background: red;
+    width: 25%;
+    margin: 0 auto;
+    font-size: 22px;
+    padding: 8px;
+    border: 3px solid white;
+    letter-spacing: 3px;
+}
