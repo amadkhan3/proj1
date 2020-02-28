@@ -7,7 +7,7 @@ import imgSrc from '../assets/screen.png'
 
 
 const Winner = () => (
-  <div>
+  <div className="winner">
   <Layout.Row type="flex">
     <Layout.Col span={16} offset={4}>
       <div className="prize-container">
