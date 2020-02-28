@@ -31,7 +31,7 @@ class Home extends React.Component {
     render() {
       return (
         <div>
-          <Layout.Row type="flex">
+          <Layout.Row>
             <Layout.Col span={10} offset={12} style={{ marginTop: '30vh'}}>
               <Form className="en-US" model={this.state.form} labelWidth="120" labelPosition="top" onSubmit={this.onSubmit.bind(this)}>
                 <Form.Item label="Voucher No.">
